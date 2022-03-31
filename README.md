@@ -10,7 +10,7 @@
 </div>
 
 # About
-This online Tutorial website is based on the idea of teaching students how to manage their money in some pleasant, interactive way.
+This online tutorial website teaches students how to better manage their money and improve their financial literacy in a pleasant, interactive way
 
 ## How to run
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
